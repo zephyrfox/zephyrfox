@@ -7,16 +7,26 @@
     </h1>
 <h3 align="center">Mobile app Developer 📱| Software Developer 🌐🛠️| Game Developer🎮</h3>
 <!--
-**zephyrfox/zephyrfox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Featured
+
+<p align="center">
+<a href="https://github.com/shahriarshafin/shahriarshafin">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shahriarshafin&repo=shahriarshafin&border_color=fe9f9d&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=fe9f9d" />
+</a>
+<span>&nbsp;</span>
+<a href="https://github.com/shahriarshafin/disney-plus-clone">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shahriarshafin&repo=disney-plus-clone&border_color=fe9f9d&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=fe9f9d" />
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/shahriarshafin/NodeMcu-ESP8266_Fake_sign_in">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shahriarshafin&repo=NodeMcu-ESP8266_Fake_sign_inborder_color=fe9f9d&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=fe9f9d" />
+</a>
+<span>&nbsp;</span>
+<a href="https://github.com/shahriarshafin/Iot-car-controller">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shahriarshafin&repo=iot-car-controllerborder_color=fe9f9d&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=fe9f9d" />
+</a>
+</p>
