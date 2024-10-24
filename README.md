@@ -1,6 +1,6 @@
 
 <h1 align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=500&size=32&pause=1000&color=62BAAE&center=true&vCenter=true&random=false&width=435&lines=I'm+Mika!;Hello+Everyone%F0%9F%91%8B" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=500&size=32&pause=1000&color=62BAAE&center=true&vCenter=true&random=false&width=435&lines=I'm+Koi!;Hello+Everyone%F0%9F%91%8B" alt="Typing SVG" /></a>
     </h1>
 <h3 align="center">Mobile app Developer 📱| Software Developer 🌐🛠️| Game Developer🎮</h3>
 
