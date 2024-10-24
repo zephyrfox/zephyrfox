@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">Hey, I'm Mika, a full-stack developer with a deep interest in computer science. I enjoy working on both hardware and software, creating solutions, and exploring various programming languages. When I'm not coding, I'm usually developing games in Unity or tinkering with small electronics and building small robots. I'm always open to sharing ideas and helping.</p>
+<p align="left">Hey, I'm Koi, a full-stack developer with a deep interest in computer science. I enjoy working on both hardware and software, creating solutions, and exploring various programming languages. When I'm not coding, I'm usually developing games in Unity or tinkering with small electronics and building small robots. I'm always open to sharing ideas and helping.</p>
 
 ###
 
